@@ -1,0 +1,57 @@
+body{
+  margin:0;
+  padding:0;
+  background-color: lightblue;
+}
+
+ul{
+  padding: 5px; 0;
+}
+h1{
+  font-size: 2em;
+  margin: 0;
+  padding: 25px;
+}
+
+nav{
+  background-color: blue;
+  padding:10px;
+  text-align: center;
+}
+li{
+  background-color: white;
+  display: inline;
+  margin: auto;
+  padding: 10px;
+}
+a{
+  color: brown;
+  text-decoration: overline;
+}
+section{
+  display: run-in;
+  text-align:
+
+}
+.box{
+  display: inline-block;
+  width: 30%;
+}
+img{
+  width: 100%;
+
+
+}
+p{
+  background-color: purple;
+  border: 5px;
+  padding: 10px
+}
+p::first-letter{
+  color: white;
+  font-size: 40px;
+}
+footer{
+  background-color: blue;
+  padding: 10px;
+  text-align: center;
